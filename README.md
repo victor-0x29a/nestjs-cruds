@@ -9,4 +9,11 @@
   
  ---
  
- O Nest oferece vários recursos para escalonar suas aplicações, principalmente para microsserviços. 
+  <p align="center"> O Nest oferece vários recursos para escalonar suas aplicações, principalmente para microsserviços com sua CLI poderosa e inteligente. Com o uso de sua CLI, ele cria e automaticamente implementa os resource no seu projeto, assim facilitando a vida do desenvolvedor, segue alguns comandos abaixo. </p>
+  
+  <br/>
+  
+   - nest g resource (Cria um resouce completo como rest, graphql...)
+   - nest g controller users (Gera um controller)
+   - nest g service users (Gera um service)
+   - nest g class users (Gera um classe)
